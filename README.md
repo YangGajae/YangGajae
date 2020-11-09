@@ -1,8 +1,12 @@
-### Hi there 👋
+### ⚠️ 공지
+- 해당 GitHub는 개인 파일 저장용으로 사용 중이며, 모든 저장소는 비공개입니다.
 
-Good day! This is Yang Gajae who is interested in the Python language.
+### 👋 안녕하세요
+- 파이썬 언어에 관심이 많은 양가재입니다.
+- Discord에서 중규모 정도의 챗봇을 개발하고 있습니다.
 
-If you want to contact me, please leave me a message!
-
-### ⚠️ Notice
-- This GitHub is for personal file storage and all repositories are private.
+### 🤖 개발 중인 것들
+- 개발 중인 Discord 챗봇입니다.
+    - [가재의 작업실](https://discord.gg/XNP7tR5) (공식 디스코드 서버)
+    - [투표 봇](http://poll.kro.kr/) (이모티콘으로 투표를 쉽게 만들 수 있는 한국어 봇.)
+    - [츠리 봇](http://cheuri.poll.kro.kr/) (디스코드에서 가상 코인으로 모의 도박에 참여할 수 있는 봇.)
